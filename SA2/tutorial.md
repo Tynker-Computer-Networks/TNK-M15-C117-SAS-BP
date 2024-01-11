@@ -4,6 +4,7 @@ Control the Mouse Position
 
 In this activity, you will learn to calculate the screen width and height to control the mouse pointer remotely on the screen.
 
+
 <img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif" width = "50%" height = "auto">
 
 
