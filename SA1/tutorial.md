@@ -4,9 +4,7 @@ Create the Mouse Object
 
 In this activity, you will learn to create a mouse object and enable right click functionality.
 
-<img src = "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif" width = "50%" heigth = "auto">
-
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525744/images/8813171/prjct.png" width = "50%" height = "auto">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif" width = "50%" height = "auto">
 
 
 Follow the given steps to complete this activity:
