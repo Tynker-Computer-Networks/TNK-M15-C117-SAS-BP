@@ -6,8 +6,6 @@ In this activity, you will learn to create a mouse object and enable right click
 
 <img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif" width = "50%" height = "auto">
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif" width = "50%" height = "auto">
-
 https://s3.amazonaws.com/media-p.slid.es/uploads/2071954/images/10926089/Slide_25.gif
 
 Follow the given steps to complete this activity:
